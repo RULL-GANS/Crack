@@ -1,6 +1,7 @@
 # Jalankan perintah di bawah
-# https://github.com/RULL-GANS/crack
+# git clone https://github.com/RULL-GANS/crack
 # cd crack
+# gitpull
 # python run.py
 
 
