@@ -1,6 +1,6 @@
 # Jalankan perintah di bawah
-# https://github.com/RULL-GANS/run
-# cd RULL-GANS
+# https://github.com/RULL-GANS/crack
+# cd crack
 # python run.py
 
 
